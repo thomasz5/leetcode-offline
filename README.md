@@ -1,7 +1,7 @@
-## Offline LeetCode workflow with a local LLM in Cursor
+## Offline LeetCode workflow with a local LLM in any IDE
 
 This repo is set up to let you:
-- Use a fully offline LLM in Cursor for coding help
+- Use a fully offline LLM for coding help
 - Scaffold new LeetCode problems quickly
 - Write and run tests locally with `pytest`
 
